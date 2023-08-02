@@ -2,6 +2,9 @@
 testing.js
 notes.js
 launch.json
+*.jpg
+*.gif
+*.png
 
 #NodeJS general ignore
 
